@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<weapons>
+
+<!-- 
+     Section136Callouts XML Data File
+     Copyright © Max Playle 2021-2025 • All rights reserved
+     This software is closed-source. Whilst you can edit this file
+     to your liking, and you may share screenshots of it, please **do not**
+     transmit this file over the internet, other than for personal uses, without
+     the express permission of Max Playle. This software is protected under UK, US
+     and international copyright laws. All rights reserved.
+     
+     This file contains basic customisation for the weapons that can spawn in
+     Ambient Events. This file was last updated for build prerelease-0.1.0.0-eac-0.0.9902-b012.
+     If you notice any issues on later builds please let me know as soon as possible.
+     
+     Need help this file? Please DO NOT leave a comment on LCPDFR.com as I do not check it often.
+     Instead, join my Discord Server: https://discord.gg/3bq88pY
+-->
+
+  <!-- This section seperates settings for specific Ambient Events. -->
+  <IndividualEvents>
+
+    <!-- This section is for the Stolen Vehicle Ambient Event -->
+    <StolenVehicle>
+
+      <!-- Whether suspects should be armed using the list of Potential Weapons below. -->
+      <ArmSuspects>true</ArmSuspects>
+      <!-- Whether only the passenger should be armed. Alternatively, you can just arm all people in the car.-->
+      <ArmOnlyPassenger>false</ArmOnlyPassenger>
+
+      <!-- See below for description. -->
+      <OccuranceChances most="70" med="50" least="25" />
+      
+      <!-- 
+      Potential weapons the suspects might be given.
+      
+      Occurance = how common the weapon will be. Uses chances in the configuration option above.
+      
+      Most = % weapons with Occurance="1" will spawn. (Should be highest)
+      Med = % weapons with Occurance="2" will spawn.
+      Least = % weapons with Occurance="3" will spawn. (Should be lowest)
+      -->
+      <PotentialWeapons>
+
+        <weapon occurance="1">WEAPON_STUNGUN</weapon>
+        <weapon occurance="1">WEAPON_HAMMER</weapon>
+        <weapon occurance="1">WEAPON_DAGGER</weapon>
+        <weapon occurance="2">WEAPON_PISTOL</weapon>
+        <weapon occurance="3">WEAPON_MICROSMG</weapon>
+        
+      </PotentialWeapons>
+    
+    </StolenVehicle>
+    
+  </IndividualEvents>
+
+
+</weapons>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>Dismiss</Name>
+    <Phrases>
+    <string>Helicopter</string>
+    <string>Air Unit</string>
+    <string>Air Support</string>
+	<string>Air Cover</string>
+    <string>Heilcopter Cover</string>
+    <string>Air Overwatch</string>
+	<string>Helicopter Overwatch</string>
+    </Phrases>
+</Command>

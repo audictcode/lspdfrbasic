@@ -1,0 +1,3950 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExtendedSpawnPoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-424.6859</X>
+      <Y>1126.69568</Y>
+      <Z>325.3265</Z>
+    </Position>
+    <Heading>117.634377</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-418.394135</X>
+      <Y>1144.98608</Y>
+      <Z>325.336884</Z>
+    </Position>
+    <Heading>343.938629</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-400.797516</X>
+      <Y>1148.442</Y>
+      <Z>325.33</Z>
+    </Position>
+    <Heading>278.080139</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-438.215942</X>
+      <Y>1158.35828</Y>
+      <Z>325.32843</Z>
+    </Position>
+    <Heading>142.180542</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-464.468536</X>
+      <Y>1130.50684</Y>
+      <Z>325.3347</Z>
+    </Position>
+    <Heading>184.422485</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-478.4884</X>
+      <Y>1106.6095</Y>
+      <Z>325.3301</Z>
+    </Position>
+    <Heading>188.0457</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-396.671661</X>
+      <Y>1107.45129</Y>
+      <Z>325.329529</Z>
+    </Position>
+    <Heading>221.690842</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-377.225342</X>
+      <Y>1245.02234</Y>
+      <Z>326.070679</Z>
+    </Position>
+    <Heading>319.6279</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>226.7816</X>
+      <Y>1171.12354</Y>
+      <Z>224.946518</Z>
+    </Position>
+    <Heading>57.47388</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>196.095612</X>
+      <Y>1217.91064</Y>
+      <Z>225.069733</Z>
+    </Position>
+    <Heading>181.845856</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>189.120163</X>
+      <Y>1206.6438</Y>
+      <Z>225.069061</Z>
+    </Position>
+    <Heading>121.009773</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>246.035522</X>
+      <Y>2600.64233</Y>
+      <Z>44.5766029</Z>
+    </Position>
+    <Heading>111.540276</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>309.015442</X>
+      <Y>2623.60669</Y>
+      <Z>43.96931</Z>
+    </Position>
+    <Heading>293.535034</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+        <Position>
+          <X>-336.913818</X>
+          <Y>6157.829</Y>
+          <Z>31.4885979</Z>
+        </Position>
+        <Heading>277.4033</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-304.2318</X>
+          <Y>6250.2915</Y>
+          <Z>31.5188217</Z>
+        </Position>
+        <Heading>55.9599876</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-222.453812</X>
+          <Y>6203.232</Y>
+          <Z>31.4896374</Z>
+        </Position>
+        <Heading>306.651</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-143.40036</X>
+          <Y>6352.512</Y>
+          <Z>31.4906311</Z>
+        </Position>
+        <Heading>9.22802</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-79.90332</X>
+          <Y>6420.293</Y>
+          <Z>31.4904613</Z>
+        </Position>
+        <Heading>231.57785</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>163.967026</X>
+          <Y>6625.07666</Y>
+          <Z>31.8019943</Z>
+        </Position>
+        <Heading>20.66043</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>49.1912155</X>
+          <Y>6492.06836</Y>
+          <Z>31.4252777</Z>
+        </Position>
+        <Heading>28.45682</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>68.19704</X>
+          <Y>6390.228</Y>
+          <Z>31.24257</Z>
+        </Position>
+        <Heading>85.47323</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>73.6561356</X>
+          <Y>6348.05469</Y>
+          <Z>31.3542862</Z>
+        </Position>
+        <Heading>306.806122</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>37.0823555</X>
+          <Y>6291.436</Y>
+          <Z>31.2403278</Z>
+        </Position>
+        <Heading>129.710876</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-72.04516</X>
+          <Y>6277.457</Y>
+          <Z>31.378334</Z>
+        </Position>
+        <Heading>284.098083</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>140.998657</X>
+          <Y>6420.954</Y>
+          <Z>30.9880428</Z>
+        </Position>
+        <Heading>83.87266</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>133.280884</X>
+          <Y>6454.48438</Y>
+          <Z>31.4576225</Z>
+        </Position>
+        <Heading>359.448242</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>200.345169</X>
+          <Y>6382.73975</Y>
+          <Z>31.1081</Z>
+        </Position>
+        <Heading>170.745117</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>436.547</X>
+          <Y>6532.14355</Y>
+          <Z>27.5970783</Z>
+        </Position>
+        <Heading>239.809082</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1583.764</X>
+          <Y>6446.55371</Y>
+          <Z>24.7875252</Z>
+        </Position>
+        <Heading>291.263672</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1562.28662</X>
+          <Y>6470.92041</Y>
+          <Z>23.4784431</Z>
+        </Position>
+        <Heading>26.0904217</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1455.01843</X>
+          <Y>6544.96729</Y>
+          <Z>14.7001514</Z>
+        </Position>
+        <Heading>303.259277</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1744.58</X>
+          <Y>6400.5415</Y>
+          <Z>35.38621</Z>
+        </Position>
+        <Heading>292.514252</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1705.47717</X>
+          <Y>4943.8833</Y>
+          <Z>41.8440323</Z>
+        </Position>
+        <Heading>259.923431</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1675.92456</X>
+          <Y>4887.74756</Y>
+          <Z>41.7760277</Z>
+        </Position>
+        <Heading>290.294556</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1647.32507</X>
+          <Y>4823.711</Y>
+          <Z>41.70859</Z>
+        </Position>
+        <Heading>122.396255</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1690.58044</X>
+          <Y>4796.894</Y>
+          <Z>41.5942421</Z>
+        </Position>
+        <Heading>1.23776972</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1712.557</X>
+          <Y>4702.368</Y>
+          <Z>42.42769</Z>
+        </Position>
+        <Heading>242.3866</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1812.30762</X>
+          <Y>4589.03857</Y>
+          <Z>36.3146629</Z>
+        </Position>
+        <Heading>312.971222</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2553.75073</X>
+          <Y>4680.76563</Y>
+          <Z>33.6182175</Z>
+        </Position>
+        <Heading>251.992264</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2529.67456</X>
+          <Y>4210.50146</Y>
+          <Z>39.72549</Z>
+        </Position>
+        <Heading>102.952141</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2476.74219</X>
+          <Y>4118.27246</Y>
+          <Z>37.7426033</Z>
+        </Position>
+        <Heading>46.5231</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2451.21533</X>
+          <Y>4046.15552</Y>
+          <Z>37.404995</Z>
+        </Position>
+        <Heading>114.140266</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1992.22791</X>
+          <Y>3769.47632</Y>
+          <Z>31.8735123</Z>
+        </Position>
+        <Heading>93.56835</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1973.77014</X>
+          <Y>3709.22876</Y>
+          <Z>31.80845</Z>
+        </Position>
+        <Heading>234.8612</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1627.6178</X>
+          <Y>3573.68945</Y>
+          <Z>34.8382</Z>
+        </Position>
+        <Heading>55.8332558</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1535.472</X>
+          <Y>3604.79688</Y>
+          <Z>34.9603539</Z>
+        </Position>
+        <Heading>119.5733</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1493.31726</X>
+          <Y>3578.29736</Y>
+          <Z>34.89609</Z>
+        </Position>
+        <Heading>148.936035</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1530.41589</X>
+          <Y>3766.407</Y>
+          <Z>33.74556</Z>
+        </Position>
+        <Heading>323.164154</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1568.91626</X>
+          <Y>3790.60962</Y>
+          <Z>34.0276031</Z>
+        </Position>
+        <Heading>346.888947</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1911.89612</X>
+          <Y>3727.45752</Y>
+          <Z>32.2707138</Z>
+        </Position>
+        <Heading>60.6141434</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1715.32935</X>
+          <Y>3597.35718</Y>
+          <Z>34.96258</Z>
+        </Position>
+        <Heading>92.64956</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>981.0415</X>
+          <Y>3619.90942</Y>
+          <Z>32.14822</Z>
+        </Position>
+        <Heading>189.904633</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>926.6932</X>
+          <Y>3656.281</Y>
+          <Z>32.27509</Z>
+        </Position>
+        <Heading>32.3435745</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>453.323547</X>
+          <Y>3569.877</Y>
+          <Z>32.9298935</Z>
+        </Position>
+        <Heading>148.509216</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>380.231628</X>
+          <Y>3591.21533</Y>
+          <Z>32.9788666</Z>
+        </Position>
+        <Heading>114.0686</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>93.31041</X>
+          <Y>3594.48242</Y>
+          <Z>39.401</Z>
+        </Position>
+        <Heading>341.4262</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>53.8606377</X>
+          <Y>3714.61938</Y>
+          <Z>39.4486465</Z>
+        </Position>
+        <Heading>190.9605</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-761.203552</X>
+          <Y>5540.26758</Y>
+          <Z>33.17051</Z>
+        </Position>
+        <Heading>276.3139</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-806.4157</X>
+          <Y>5425.8125</Y>
+          <Z>33.98933</Z>
+        </Position>
+        <Heading>49.35239</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1501.12415</X>
+          <Y>4961.804</Y>
+          <Z>63.300354</Z>
+        </Position>
+        <Heading>151.9434</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2200.59839</X>
+          <Y>4264.90137</Y>
+          <Z>47.8074722</Z>
+        </Position>
+        <Heading>217.0901</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2175.04932</X>
+          <Y>4269.18359</Y>
+          <Z>48.650425</Z>
+        </Position>
+        <Heading>143.957779</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2538.49243</X>
+          <Y>2337.26074</Y>
+          <Z>32.755</Z>
+        </Position>
+        <Heading>239.677429</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1143.35291</X>
+          <Y>2677.38257</Y>
+          <Z>17.78197</Z>
+        </Position>
+        <Heading>99.3993</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-449.461945</X>
+          <Y>2864.6228</Y>
+          <Z>35.45942</Z>
+        </Position>
+        <Heading>104.264938</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-93.93429</X>
+          <Y>2801.05029</Y>
+          <Z>53.05339</Z>
+        </Position>
+        <Heading>170.779739</Heading>
+      </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>63.60429</X>
+          <Y>2780.62451</Y>
+          <Z>57.5636635</Z>
+        </Position>
+        <Heading>319.3122</Heading>
+      </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>175.629883</X>
+      <Y>6601.67139</Y>
+      <Z>31.6416016</Z>
+    </Position>
+    <Heading>4.1980567</Heading>
+    <Area>PALETO</Area>
+    <Street>Paleto Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2006.09131</X>
+      <Y>3778.573</Y>
+      <Z>31.9740753</Z>
+    </Position>
+    <Heading>146.776184</Heading>
+    <Area>SANDY</Area>
+    <Street>Marina Dr</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3243.40625</X>
+          <Y>992.6711</Y>
+          <Z>11.9384308</Z>
+        </Position>
+        <Heading>91.7279358</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3263.27344</X>
+          <Y>966.750549</Y>
+          <Z>8.305031</Z>
+        </Position>
+        <Heading>92.57343</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3313.56055</X>
+          <Y>967.356934</Y>
+          <Z>7.766499</Z>
+        </Position>
+        <Heading>80.2764</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3409.575</X>
+          <Y>967.26886</Y>
+          <Z>7.82623672</Z>
+        </Position>
+        <Heading>89.90985</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3138.92163</X>
+          <Y>1123.45007</Y>
+          <Z>20.1787663</Z>
+        </Position>
+        <Heading>315.169525</Heading>
+      </ExtendedSpawnPoint>
+
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2561.43213</X>
+      <Y>2608.86987</Y>
+      <Z>37.4544563</Z>
+    </Position>
+    <Heading>194.67984</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2533.2373</X>
+      <Y>2590.84375</Y>
+      <Z>37.46313</Z>
+    </Position>
+    <Heading>163.769974</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2527.42456</X>
+      <Y>2628.83081</Y>
+      <Z>37.4624138</Z>
+    </Position>
+    <Heading>26.7218552</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2567.98975</X>
+      <Y>472.487244</Y>
+      <Z>108.046463</Z>
+    </Position>
+    <Heading>200.491974</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2581.498</X>
+      <Y>454.112366</Y>
+      <Z>107.975128</Z>
+    </Position>
+    <Heading>324.946655</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2564.55322</X>
+      <Y>383.961456</Y>
+      <Z>107.978722</Z>
+    </Position>
+    <Heading>169.010666</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2550.55273</X>
+      <Y>341.572723</Y>
+      <Z>107.979385</Z>
+    </Position>
+    <Heading>11.89494</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2569.38184</X>
+      <Y>306.539032</Y>
+      <Z>108.130211</Z>
+    </Position>
+    <Heading>226.182358</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-55.07207</X>
+      <Y>-1759.072</Y>
+      <Z>28.5098019</Z>
+    </Position>
+    <Heading>226.854172</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>49.32657</X>
+      <Y>-1735.3302</Y>
+      <Z>28.82314</Z>
+    </Position>
+    <Heading>253.918</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>58.23239</X>
+      <Y>-1723.8811</Y>
+      <Z>28.8185654</Z>
+    </Position>
+    <Heading>321.503265</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>166.643219</X>
+      <Y>-1631.076</Y>
+      <Z>28.8119545</Z>
+    </Position>
+    <Heading>233.984451</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>277.755157</X>
+      <Y>-1596.0835</Y>
+      <Z>30.0437126</Z>
+    </Position>
+    <Heading>353.6422</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>292.084656</X>
+      <Y>-1582.27832</Y>
+      <Z>30.045681</Z>
+    </Position>
+    <Heading>297.4877</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>285.754242</X>
+      <Y>-1564.68274</Y>
+      <Z>29.4549274</Z>
+    </Position>
+    <Heading>141.581787</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-284.19754</X>
+      <Y>-58.1221962</Y>
+      <Z>48.9034958</Z>
+    </Position>
+    <Heading>92.49759</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-354.513855</X>
+      <Y>-42.1338463</Y>
+      <Z>48.55186</Z>
+    </Position>
+    <Heading>82.29328</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-379.117584</X>
+      <Y>-34.5310822</Y>
+      <Z>48.55235</Z>
+    </Position>
+    <Heading>82.120285</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-375.8412</X>
+      <Y>-235.196365</Y>
+      <Z>35.32839</Z>
+    </Position>
+    <Heading>253.912064</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-528.6296</X>
+      <Y>-226.837173</Y>
+      <Z>36.2203674</Z>
+    </Position>
+    <Heading>108.6909</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-539.907532</X>
+      <Y>-216.914185</Y>
+      <Z>37.1665459</Z>
+    </Position>
+    <Heading>27.4438343</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-517.584</X>
+      <Y>-253.550659</Y>
+      <Z>35.1674271</Z>
+    </Position>
+    <Heading>241.053131</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-523.2981</X>
+      <Y>-327.58783</Y>
+      <Z>34.6648941</Z>
+    </Position>
+    <Heading>242.463257</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-520.0557</X>
+      <Y>-307.411835</Y>
+      <Z>41.742363</Z>
+    </Position>
+    <Heading>303.6656</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-514.337158</X>
+      <Y>-335.8468</Y>
+      <Z>41.73383</Z>
+    </Position>
+    <Heading>170.207062</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-478.717072</X>
+      <Y>-346.4496</Y>
+      <Z>41.7312965</Z>
+    </Position>
+    <Heading>267.6515</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-433.7403</X>
+      <Y>-314.8138</Y>
+      <Z>41.7371979</Z>
+    </Position>
+    <Heading>15.6342049</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-245.808228</X>
+      <Y>-311.901764</Y>
+      <Z>29.6445522</Z>
+    </Position>
+    <Heading>230.580841</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-240.341217</X>
+      <Y>-326.6723</Y>
+      <Z>29.52169</Z>
+    </Position>
+    <Heading>174.285156</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-292.647949</X>
+      <Y>-422.323761</Y>
+      <Z>29.7591057</Z>
+    </Position>
+    <Heading>143.145309</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-135.580841</X>
+      <Y>-252.407654</Y>
+      <Z>43.25552</Z>
+    </Position>
+    <Heading>74.78445</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-58.3480873</X>
+      <Y>-138.880554</Y>
+      <Z>57.2130127</Z>
+    </Position>
+    <Heading>238.00235</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>89.94711</X>
+      <Y>-216.434311</Y>
+      <Z>54.01115</Z>
+    </Position>
+    <Heading>182.4744</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>109.430534</X>
+      <Y>-200.260025</Y>
+      <Z>54.3540344</Z>
+    </Position>
+    <Heading>326.804352</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>861.6685</X>
+      <Y>-2092.235</Y>
+      <Z>29.7484951</Z>
+    </Position>
+    <Heading>255.519547</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>907.1267</X>
+      <Y>-2094.08228</Y>
+      <Z>30.0280247</Z>
+    </Position>
+    <Heading>249.844315</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>806.37</X>
+      <Y>-2026.89893</Y>
+      <Z>28.7568626</Z>
+    </Position>
+    <Heading>171.219269</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>855.630432</X>
+      <Y>-1989.68018</Y>
+      <Z>29.1077633</Z>
+    </Position>
+    <Heading>75.33214</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>926.125061</X>
+      <Y>-1747.20984</Y>
+      <Z>30.5075264</Z>
+    </Position>
+    <Heading>35.7334137</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1333.6958</X>
+      <Y>-1640.73413</Y>
+      <Z>51.60018</Z>
+    </Position>
+    <Heading>78.06571</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1321.965</X>
+      <Y>-1644.92859</Y>
+      <Z>51.662426</Z>
+    </Position>
+    <Heading>115.601631</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1203.53162</X>
+      <Y>-1396.04834</Y>
+      <Z>34.7418671</Z>
+    </Position>
+    <Heading>326.2041</Heading>
+  </ExtendedSpawnPoint>
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3163.592</X>
+          <Y>1061.70679</Y>
+          <Z>20.218029</Z>
+        </Position>
+        <Heading>126.81591</Heading>
+      </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-216.904953</X>
+      <Y>-1505.18286</Y>
+      <Z>30.9844322</Z>
+    </Position>
+    <Heading>186.522125</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-236.271667</X>
+      <Y>-1528.78674</Y>
+      <Z>30.980669</Z>
+    </Position>
+    <Heading>134.2932</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1172.67639</X>
+      <Y>-286.5193</Y>
+      <Z>68.50516</Z>
+    </Position>
+    <Heading>201.4653</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1163.40625</X>
+      <Y>-328.06543</Y>
+      <Z>68.58065</Z>
+    </Position>
+    <Heading>90.36209</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1178.68079</X>
+      <Y>-419.649017</Y>
+      <Z>66.87968</Z>
+    </Position>
+    <Heading>84.0202</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1147.07312</X>
+      <Y>-455.015625</Y>
+      <Z>66.50337</Z>
+    </Position>
+    <Heading>79.49618</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1169.00732</X>
+      <Y>-731.5978</Y>
+      <Z>56.7109</Z>
+    </Position>
+    <Heading>23.6749268</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1148.67078</X>
+      <Y>-713.816833</Y>
+      <Z>56.2531052</Z>
+    </Position>
+    <Heading>59.7423019</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1129.0459</X>
+      <Y>-656.6716</Y>
+      <Z>56.2019119</Z>
+    </Position>
+    <Heading>354.567963</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1119.69116</X>
+      <Y>-530.4175</Y>
+      <Z>62.7423</Z>
+    </Position>
+    <Heading>53.2703323</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1077.088</X>
+      <Y>-531.6345</Y>
+      <Z>61.7228279</Z>
+    </Position>
+    <Heading>103.996849</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1058.34033</X>
+      <Y>-614.6822</Y>
+      <Z>56.285923</Z>
+    </Position>
+    <Heading>136.667984</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1023.45142</X>
+      <Y>-657.376038</Y>
+      <Z>58.1063728</Z>
+    </Position>
+    <Heading>148.97789</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1017.131</X>
+      <Y>-684.6449</Y>
+      <Z>56.245018</Z>
+    </Position>
+    <Heading>178.393951</Heading>
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1053.73438</X>
+      <Y>-716.879761</Y>
+      <Z>56.32317</Z>
+    </Position>
+    <Heading>244.8519</Heading>
+  </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3150.748</X>
+          <Y>1059.10376</Y>
+          <Z>20.0972481</Z>
+        </Position>
+        <Heading>270.948181</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3156.44238</X>
+          <Y>1092.72241</Y>
+          <Z>20.3327274</Z>
+        </Position>
+        <Heading>336.8689</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2944.16284</X>
+          <Y>475.3696</Y>
+          <Z>14.7336731</Z>
+        </Position>
+        <Heading>166.853378</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2968.0835</X>
+          <Y>443.954376</Y>
+          <Z>14.713809</Z>
+        </Position>
+        <Heading>229.655685</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2964.23462</X>
+          <Y>417.6902</Y>
+          <Z>14.7178144</Z>
+        </Position>
+        <Heading>236.59552</Heading>
+      </ExtendedSpawnPoint>
+ 
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2966.283</X>
+          <Y>400.139435</Y>
+          <Z>14.5610275</Z>
+        </Position>
+        <Heading>85.64166</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2973.59521</X>
+          <Y>369.247375</Y>
+          <Z>14.2492189</Z>
+        </Position>
+        <Heading>222.459076</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3020.58838</X>
+          <Y>86.60457</Y>
+          <Z>11.0831623</Z>
+        </Position>
+        <Heading>176.163651</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2969.58521</X>
+          <Y>64.48689</Y>
+          <Z>11.0755415</Z>
+        </Position>
+        <Heading>334.444183</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3061.04468</X>
+          <Y>97.23748</Y>
+          <Z>11.636548</Z>
+        </Position>
+        <Heading>153.677017</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3049.557</X>
+          <Y>84.0195541</Y>
+          <Z>12.2927618</Z>
+        </Position>
+        <Heading>229.355316</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-3033.31177</X>
+          <Y>63.2590561</Y>
+          <Z>11.0743561</Z>
+        </Position>
+        <Heading>167.049316</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2864.191</X>
+          <Y>-2.93019152</Y>
+          <Z>11.0782347</Z>
+        </Position>
+        <Heading>93.98124</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-2893.154</X>
+          <Y>-11.23065</Y>
+          <Z>7.09251451</Z>
+        </Position>
+        <Heading>63.1448135</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>355.170074</X>
+          <Y>2635.50269</Y>
+          <Z>43.96417</Z>
+        </Position>
+        <Heading>292.247864</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>376.375</X>
+          <Y>2644.062</Y>
+          <Z>43.9594841</Z>
+        </Position>
+        <Heading>292.119141</Heading>
+      </ExtendedSpawnPoint>
+ 
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>551.0187</X>
+          <Y>2677.90747</Y>
+          <Z>41.5461273</Z>
+        </Position>
+        <Heading>272.508453</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>591.2777</X>
+          <Y>2739.44678</Y>
+          <Z>41.4220238</Z>
+        </Position>
+        <Heading>284.490784</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>624.019043</X>
+          <Y>2732.6167</Y>
+          <Z>41.41431</Z>
+        </Position>
+        <Heading>287.4886</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>648.880066</X>
+          <Y>2769.742</Y>
+          <Z>41.4124336</Z>
+        </Position>
+        <Heading>21.4171448</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1050.96313</X>
+          <Y>2667.94482</Y>
+          <Z>39.0246162</Z>
+        </Position>
+        <Heading>256.6549</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1114.80261</X>
+          <Y>2667.48364</Y>
+          <Z>37.4923935</Z>
+        </Position>
+        <Heading>246.586243</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1131.24072</X>
+          <Y>2663.26514</Y>
+          <Z>37.4285736</Z>
+        </Position>
+        <Heading>292.598328</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1173.99475</X>
+          <Y>2694.95215</Y>
+          <Z>37.3518524</Z>
+        </Position>
+        <Heading>286.546356</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1193.73962</X>
+          <Y>2701.17749</Y>
+          <Z>37.63428</Z>
+        </Position>
+        <Heading>280.065979</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1211.50183</X>
+          <Y>2718.98657</Y>
+          <Z>37.47555</Z>
+        </Position>
+        <Heading>344.288116</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1224.92542</X>
+          <Y>2724.39941</Y>
+          <Z>37.4778023</Z>
+        </Position>
+        <Heading>265.70108</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1239.59033</X>
+          <Y>2712.3103</Y>
+          <Z>37.47779</Z>
+        </Position>
+        <Heading>223.505646</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2006.66809</X>
+          <Y>3053.40967</Y>
+          <Z>46.52755</Z>
+        </Position>
+        <Heading>138.444183</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1992.2467</X>
+          <Y>3057.962</Y>
+          <Z>46.533577</Z>
+        </Position>
+        <Heading>62.5001564</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1984.23181</X>
+          <Y>3062.1438</Y>
+          <Z>46.68907</Z>
+        </Position>
+        <Heading>62.5104141</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1780.06384</X>
+          <Y>3312.77417</Y>
+          <Z>40.8161621</Z>
+        </Position>
+        <Heading>60.27841</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1768.79968</X>
+          <Y>3306.21</Y>
+          <Z>40.62147</Z>
+        </Position>
+        <Heading>136.8212</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1750.36414</X>
+          <Y>3291.539</Y>
+          <Z>40.57483</Z>
+        </Position>
+        <Heading>77.67837</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>1773.02563</X>
+          <Y>3340.548</Y>
+          <Z>40.61793</Z>
+        </Position>
+        <Heading>57.6245956</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2751.61426</X>
+          <Y>3468.38281</Y>
+          <Z>55.185463</Z>
+        </Position>
+        <Heading>356.426849</Heading>
+      </ExtendedSpawnPoint>
+  
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2763.47534</X>
+          <Y>3496.0625</Y>
+          <Z>54.8220024</Z>
+        </Position>
+        <Heading>351.758575</Heading>
+      </ExtendedSpawnPoint>
+    
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2784.73926</X>
+          <Y>3505.99146</Y>
+          <Z>54.41705</Z>
+        </Position>
+        <Heading>259.001068</Heading>
+      </ExtendedSpawnPoint>
+  
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2740.32031</X>
+          <Y>3438.574</Y>
+          <Z>55.81312</Z>
+        </Position>
+        <Heading>109.311279</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>2696.404</X>
+          <Y>3451.05029</Y>
+          <Z>55.2542877</Z>
+        </Position>
+        <Heading>63.2046</Heading>
+      </ExtendedSpawnPoint>
+  
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-706.8063</X>
+          <Y>-920.369141</Y>
+          <Z>18.49283</Z>
+        </Position>
+        <Heading>30.7007771</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-754.3865</X>
+          <Y>-1032.79639</Y>
+          <Z>12.5330315</Z>
+        </Position>
+        <Heading>210.749252</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-761.686462</X>
+          <Y>-1056.13562</Y>
+          <Z>12.9584827</Z>
+        </Position>
+        <Heading>113.083023</Heading>
+      </ExtendedSpawnPoint>
+ 
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-813.0956</X>
+          <Y>-1086.58582</Y>
+          <Z>10.4304667</Z>
+        </Position>
+        <Heading>16.3763027</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-602.223938</X>
+          <Y>-935.801</Y>
+          <Z>23.3646717</Z>
+        </Position>
+        <Heading>359.756378</Heading>
+      </ExtendedSpawnPoint>
+ 
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-596.9703</X>
+          <Y>-879.076</Y>
+          <Z>25.0908165</Z>
+        </Position>
+        <Heading>307.4244</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-489.70047</X>
+          <Y>-753.645</Y>
+          <Z>31.555088</Z>
+        </Position>
+        <Heading>6.054606</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-528.0245</X>
+          <Y>-676.122253</Y>
+          <Z>33.1422272</Z>
+        </Position>
+        <Heading>265.2715</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-492.821136</X>
+          <Y>-679.4605</Y>
+          <Z>32.4160156</Z>
+        </Position>
+        <Heading>222.03215</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-495.589844</X>
+          <Y>-731.2882</Y>
+          <Z>32.68569</Z>
+        </Position>
+        <Heading>311.427338</Heading>
+      </ExtendedSpawnPoint>
+   
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-309.0683</X>
+          <Y>-608.8891</Y>
+          <Z>33.02712</Z>
+        </Position>
+        <Heading>55.27872</Heading>
+      </ExtendedSpawnPoint>
+   
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-222.3887</X>
+          <Y>-649.023132</Y>
+          <Z>32.8932953</Z>
+        </Position>
+        <Heading>222.639679</Heading>
+      </ExtendedSpawnPoint>
+ 
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-144.25267</X>
+          <Y>-674.9391</Y>
+          <Z>39.9625626</Z>
+        </Position>
+        <Heading>242.493652</Heading>
+      </ExtendedSpawnPoint>
+ 
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-64.09615</X>
+          <Y>-673.1969</Y>
+          <Z>40.188942</Z>
+        </Position>
+        <Heading>293.5835</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-32.52584</X>
+          <Y>-656.9024</Y>
+          <Z>40.191185</Z>
+        </Position>
+        <Heading>299.857666</Heading>
+      </ExtendedSpawnPoint>
+  
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-24.0809937</X>
+          <Y>-676.127869</Y>
+          <Z>40.1942139</Z>
+        </Position>
+        <Heading>119.403763</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-69.66239</X>
+          <Y>-711.6439</Y>
+          <Z>43.6941566</Z>
+        </Position>
+        <Heading>245.727585</Heading>
+      </ExtendedSpawnPoint>
+    
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-38.58843</X>
+          <Y>-723.9961</Y>
+          <Z>43.71734</Z>
+        </Position>
+        <Heading>249.208374</Heading>
+      </ExtendedSpawnPoint>
+   
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-54.978363</X>
+          <Y>-791.830566</Y>
+          <Z>43.67567</Z>
+        </Position>
+        <Heading>104.706261</Heading>
+      </ExtendedSpawnPoint>
+   
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-145.362411</X>
+          <Y>-873.697632</Y>
+          <Z>29.2465916</Z>
+        </Position>
+        <Heading>21.8549862</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-190.367157</X>
+          <Y>-821.202454</Y>
+          <Z>30.4585133</Z>
+        </Position>
+        <Heading>51.06503</Heading>
+      </ExtendedSpawnPoint>
+    
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-198.417328</X>
+          <Y>-802.7624</Y>
+          <Z>29.9241619</Z>
+        </Position>
+        <Heading>18.5690784</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-196.168716</X>
+          <Y>-784.6044</Y>
+          <Z>29.9203777</Z>
+        </Position>
+        <Heading>342.140625</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-219.37381</X>
+          <Y>-761.2062</Y>
+          <Z>29.92424</Z>
+        </Position>
+        <Heading>79.11712</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-193.93425</X>
+          <Y>-771.0153</Y>
+          <Z>29.9190731</Z>
+        </Position>
+        <Heading>250.41571</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-168.686874</X>
+          <Y>-788.136658</Y>
+          <Z>31.2970314</Z>
+        </Position>
+        <Heading>227.7712</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-228.4693</X>
+          <Y>-934.8895</Y>
+          <Z>30.690321</Z>
+        </Position>
+        <Heading>162.443481</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-241.963974</X>
+          <Y>-943.3534</Y>
+          <Z>30.6942139</Z>
+        </Position>
+        <Heading>117.596504</Heading>
+      </ExtendedSpawnPoint>
+   
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-255.734024</X>
+          <Y>-976.333557</Y>
+          <Z>30.68814</Z>
+        </Position>
+        <Heading>121.057487</Heading>
+      </ExtendedSpawnPoint>
+   
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-59.55908</X>
+          <Y>-916.130554</Y>
+          <Z>28.861824</Z>
+        </Position>
+        <Heading>277.0298</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-15.3298788</X>
+          <Y>-970.0462</Y>
+          <Z>28.9590111</Z>
+        </Position>
+        <Heading>232.653839</Heading>
+      </ExtendedSpawnPoint>
+    
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>20.32227</X>
+          <Y>-985.6202</Y>
+          <Z>28.8879929</Z>
+        </Position>
+        <Heading>246.735413</Heading>
+      </ExtendedSpawnPoint>
+ 
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>67.7135239</X>
+          <Y>-962.0537</Y>
+          <Z>28.83236</Z>
+        </Position>
+        <Heading>27.116333</Heading>
+      </ExtendedSpawnPoint>
+ 
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-280.875549</X>
+          <Y>-1054.66089</Y>
+          <Z>26.6881447</Z>
+        </Position>
+        <Heading>311.859619</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-541.5075</X>
+          <Y>-1213.34985</Y>
+          <Z>17.5437412</Z>
+        </Position>
+        <Heading>161.7126</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-576.1396</X>
+          <Y>-1141.253</Y>
+          <Z>21.6526718</Z>
+        </Position>
+        <Heading>156.07431</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-588.889343</X>
+          <Y>-1085.70459</Y>
+          <Z>21.8164234</Z>
+        </Position>
+        <Heading>322.049622</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-570.518555</X>
+          <Y>-1083.10327</Y>
+          <Z>21.8061371</Z>
+        </Position>
+        <Heading>252.2009</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-614.0831</X>
+          <Y>-1082.51526</Y>
+          <Z>21.6529636</Z>
+        </Position>
+        <Heading>104.731827</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1146.89771</X>
+          <Y>-1621.5863</Y>
+          <Z>3.80753183</Z>
+        </Position>
+        <Heading>30.1604061</Heading>
+      </ExtendedSpawnPoint>
+
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1163.38733</X>
+          <Y>-1594.25244</Y>
+          <Z>3.819798</Z>
+        </Position>
+        <Heading>34.2958336</Heading>
+      </ExtendedSpawnPoint>
+
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1171.017</X>
+          <Y>-1583.03113</Y>
+          <Z>3.82666755</Z>
+        </Position>
+        <Heading>34.36082</Heading>
+      </ExtendedSpawnPoint>
+
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1185.82983</X>
+          <Y>-1562.54126</Y>
+          <Z>3.82389045</Z>
+        </Position>
+        <Heading>33.69309</Heading>
+      </ExtendedSpawnPoint>
+
+ 
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1198.77783</X>
+          <Y>-1548.43274</Y>
+          <Z>3.78402352</Z>
+        </Position>
+        <Heading>39.5757561</Heading>
+      </ExtendedSpawnPoint>
+   
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1214.84814</X>
+          <Y>-1531.37476</Y>
+          <Z>3.754368</Z>
+        </Position>
+        <Heading>47.3430252</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1224.57043</X>
+          <Y>-1510.42163</Y>
+          <Z>3.758697</Z>
+        </Position>
+        <Heading>15.43643</Heading>
+      </ExtendedSpawnPoint>
+    
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1253.01929</X>
+          <Y>-1457.91345</Y>
+          <Z>3.76988244</Z>
+        </Position>
+        <Heading>29.1559582</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1290.70483</X>
+          <Y>-1412.85291</Y>
+          <Z>3.74413347</Z>
+        </Position>
+        <Heading>34.7534332</Heading>
+      </ExtendedSpawnPoint>
+    
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1310.58435</X>
+          <Y>-1377.2356</Y>
+          <Z>3.95676017</Z>
+        </Position>
+        <Heading>25.8321762</Heading>
+      </ExtendedSpawnPoint>
+    
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1323.33618</X>
+          <Y>-1347.089</Y>
+          <Z>3.99076557</Z>
+        </Position>
+        <Heading>20.6613522</Heading>
+      </ExtendedSpawnPoint>
+    
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1331.17957</X>
+          <Y>-1317.53</Y>
+          <Z>4.260496</Z>
+        </Position>
+        <Heading>12.8868065</Heading>
+      </ExtendedSpawnPoint>
+    
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1347.11646</X>
+          <Y>-1270.15454</Y>
+          <Z>4.35844374</Z>
+        </Position>
+        <Heading>19.5618839</Heading>
+      </ExtendedSpawnPoint>
+   
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1359.17712</X>
+          <Y>-1222.68176</Y>
+          <Z>3.98219633</Z>
+        </Position>
+        <Heading>11.8421526</Heading>
+      </ExtendedSpawnPoint>
+   
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1362.79028</X>
+          <Y>-1176.64136</Y>
+          <Z>3.99758625</Z>
+        </Position>
+        <Heading>0.9566037</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1016.74255</X>
+          <Y>-1420.75146</Y>
+          <Z>4.655417</Z>
+        </Position>
+        <Heading>5.114339</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1011.29236</X>
+          <Y>-1377.89465</Y>
+          <Z>4.67028427</Z>
+        </Position>
+        <Heading>346.661133</Heading>
+      </ExtendedSpawnPoint>
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1013.9577</X>
+          <Y>-1326.79858</Y>
+          <Z>5.18748426</Z>
+        </Position>
+        <Heading>34.33607</Heading>
+      </ExtendedSpawnPoint>
+  
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1047.45276</X>
+          <Y>-1350.12573</Y>
+          <Z>4.905515</Z>
+        </Position>
+        <Heading>164.046417</Heading>
+      </ExtendedSpawnPoint>
+
+  
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1048.15063</X>
+          <Y>-1397.84338</Y>
+          <Z>4.88330173</Z>
+        </Position>
+        <Heading>309.071747</Heading>
+      </ExtendedSpawnPoint>
+
+  
+
+      <ExtendedSpawnPoint>
+        <Position>
+          <X>-1138.762</X>
+          <Y>-1286.44641</Y>
+          <Z>5.9521327</Z>
+        </Position>
+        <Heading>6.90742159</Heading>
+      </ExtendedSpawnPoint>
+
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1506.05359</X>
+      <Y>1486.712</Y>
+      <Z>116.387421</Z>
+    </Position>
+    <Heading>181.3457</Heading>
+    <Area>TONGVAV</Area>
+    <Street>Tongva Dr</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1799.6781</X>
+      <Y>799.582764</Y>
+      <Z>138.3081</Z>
+    </Position>
+    <Heading>38.950882</Heading>
+    <Area>RGLEN</Area>
+    <Street>North Rockford Dr</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1818.08545</X>
+      <Y>785.74115</Y>
+      <Z>137.67247</Z>
+    </Position>
+    <Heading>72.73141</Heading>
+    <Area>RGLEN</Area>
+    <Street>Banham Canyon Dr</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-2295.02368</X>
+      <Y>373.324</Y>
+      <Z>174.3612</Z>
+    </Position>
+    <Heading>241.397278</Heading>
+    <Area>PBLUFF</Area>
+    <Street>Kortz Dr</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1613.16321</X>
+      <Y>-982.791138</Y>
+      <Z>12.8106031</Z>
+    </Position>
+    <Heading>174.689072</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1814.57056</X>
+      <Y>-1202.985</Y>
+      <Z>12.8103266</Z>
+    </Position>
+    <Heading>138.842789</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1764.648</X>
+      <Y>-1144.57312</Y>
+      <Z>12.89334</Z>
+    </Position>
+    <Heading>289.006958</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1705.43713</X>
+      <Y>-1089.9353</Y>
+      <Z>12.9705067</Z>
+    </Position>
+    <Heading>279.981</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1670.06042</X>
+      <Y>-1123.70959</Y>
+      <Z>12.8533154</Z>
+    </Position>
+    <Heading>193.485519</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1601.86157</X>
+      <Y>-1080.41321</Y>
+      <Z>13.018363</Z>
+    </Position>
+    <Heading>310.6653</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1558.08484</X>
+      <Y>-987.7843</Y>
+      <Z>12.6426449</Z>
+    </Position>
+    <Heading>145.0514</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1603.12231</X>
+      <Y>-1044.78992</Y>
+      <Z>12.6702538</Z>
+    </Position>
+    <Heading>158.623337</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1469.715</X>
+      <Y>-1034.33813</Y>
+      <Z>5.0931263</Z>
+    </Position>
+    <Heading>155.335876</Heading>
+    <Area>DELBE</Area>
+    <Street>Sandcastle Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1592.54358</X>
+      <Y>-1015.32025</Y>
+      <Z>7.035384</Z>
+    </Position>
+    <Heading>35.52841</Heading>
+    <Area>DELBE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1377.85986</X>
+      <Y>-1083.61243</Y>
+      <Z>3.871775</Z>
+    </Position>
+    <Heading>242.845749</Heading>
+    <Area>BEACH</Area>
+    <Street>Conquistador St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1372.3656</X>
+      <Y>-1119.40076</Y>
+      <Z>4.13685751</Z>
+    </Position>
+    <Heading>116.023094</Heading>
+    <Area>BEACH</Area>
+    <Street>Conquistador St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1350.82922</X>
+      <Y>-1339.22864</Y>
+      <Z>4.11176968</Z>
+    </Position>
+    <Heading>147.372757</Heading>
+    <Area>BEACH</Area>
+    <Street>Vitus St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1456.24341</X>
+      <Y>-1413.13928</Y>
+      <Z>2.20313263</Z>
+    </Position>
+    <Heading>115.2058</Heading>
+    <Area>OCEANA</Area>
+    <Street>Palomino Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1396.69812</X>
+      <Y>-1464.25623</Y>
+      <Z>3.6923604</Z>
+    </Position>
+    <Heading>243.350952</Heading>
+    <Area>BEACH</Area>
+    <Street>Palomino Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1214.85071</X>
+      <Y>-1663.955</Y>
+      <Z>3.81538987</Z>
+    </Position>
+    <Heading>212.7236</Heading>
+    <Area>BEACH</Area>
+    <Street>Melanoma St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1172.20911</X>
+      <Y>-1755.81824</Y>
+      <Z>3.5824945</Z>
+    </Position>
+    <Heading>207.672226</Heading>
+    <Area>BEACH</Area>
+    <Street>Bay City Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1103.82581</X>
+      <Y>-1692.41846</Y>
+      <Z>3.94573665</Z>
+    </Position>
+    <Heading>60.84113</Heading>
+    <Area>BEACH</Area>
+    <Street>Bay City Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-853.19104</X>
+      <Y>-1265.67017</Y>
+      <Z>4.6244297</Z>
+    </Position>
+    <Heading>85.91301</Heading>
+    <Area>DELSOL</Area>
+    <Street>Tackle St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-811.825867</X>
+      <Y>-1395.72681</Y>
+      <Z>4.626291</Z>
+    </Position>
+    <Heading>240.688736</Heading>
+    <Area>DELSOL</Area>
+    <Street>Tackle St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-760.336548</X>
+      <Y>-1319.68347</Y>
+      <Z>4.62574673</Z>
+    </Position>
+    <Heading>312.99054</Heading>
+    <Area>DELSOL</Area>
+    <Street>Tackle St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-744.75354</X>
+      <Y>-1311.81177</Y>
+      <Z>4.625589</Z>
+    </Position>
+    <Heading>285.614868</Heading>
+    <Area>DELSOL</Area>
+    <Street>Tackle St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1049.47327</X>
+      <Y>-2540.44482</Y>
+      <Z>13.2300653</Z>
+    </Position>
+    <Heading>154.340271</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1073.04443</X>
+      <Y>-2581.53833</Y>
+      <Z>13.2385206</Z>
+    </Position>
+    <Heading>148.0737</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1141.9292</X>
+      <Y>-2698.78735</Y>
+      <Z>13.5299368</Z>
+    </Position>
+    <Heading>126.043526</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1052.36609</X>
+      <Y>-2712.26367</Y>
+      <Z>13.2530546</Z>
+    </Position>
+    <Heading>241.474335</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1046.14319</X>
+      <Y>-2715.77148</Y>
+      <Z>13.25012</Z>
+    </Position>
+    <Heading>241.191864</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1040.78943</X>
+      <Y>-2718.751</Y>
+      <Z>13.2603159</Z>
+    </Position>
+    <Heading>241.1319</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1035.00854</X>
+      <Y>-2722.16577</Y>
+      <Z>13.2578182</Z>
+    </Position>
+    <Heading>239.525879</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1025.41541</X>
+      <Y>-2728.077</Y>
+      <Z>13.2332382</Z>
+    </Position>
+    <Heading>238.50914</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1019.24255</X>
+      <Y>-2731.99243</Y>
+      <Z>13.2221165</Z>
+    </Position>
+    <Heading>237.587769</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1014.07184</X>
+      <Y>-2735.29028</Y>
+      <Z>13.2014723</Z>
+    </Position>
+    <Heading>237.7243</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1004.36945</X>
+      <Y>-2760.00073</Y>
+      <Z>13.332633</Z>
+    </Position>
+    <Heading>155.319885</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-879.9429</X>
+      <Y>-2733.32031</Y>
+      <Z>13.4047642</Z>
+    </Position>
+    <Heading>264.672821</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1007.26459</X>
+      <Y>-2460.11133</Y>
+      <Z>19.6242027</Z>
+    </Position>
+    <Heading>149.899414</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1014.24579</X>
+      <Y>-2473.05225</Y>
+      <Z>19.651825</Z>
+    </Position>
+    <Heading>153.083267</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1021.82544</X>
+      <Y>-2487.76831</Y>
+      <Z>19.688139</Z>
+    </Position>
+    <Heading>152.180511</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1026.66675</X>
+      <Y>-2494.92529</Y>
+      <Z>19.6620846</Z>
+    </Position>
+    <Heading>146.24501</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1029.54407</X>
+      <Y>-2499.832</Y>
+      <Z>19.6598339</Z>
+    </Position>
+    <Heading>151.862869</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1032.01367</X>
+      <Y>-2504.356</Y>
+      <Z>19.6667023</Z>
+    </Position>
+    <Heading>151.789749</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1036.04883</X>
+      <Y>-2511.49731</Y>
+      <Z>19.6590481</Z>
+    </Position>
+    <Heading>151.387985</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1048.31567</X>
+      <Y>-2532.67236</Y>
+      <Z>19.6683331</Z>
+    </Position>
+    <Heading>148.723358</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1057.26563</X>
+      <Y>-2546.735</Y>
+      <Z>19.6246872</Z>
+    </Position>
+    <Heading>147.64978</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1068.9458</X>
+      <Y>-2567.766</Y>
+      <Z>19.6482258</Z>
+    </Position>
+    <Heading>151.9057</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1076.20264</X>
+      <Y>-2580.91064</Y>
+      <Z>19.6538715</Z>
+    </Position>
+    <Heading>150.983353</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1054.30994</X>
+      <Y>-2718.185</Y>
+      <Z>19.6568928</Z>
+    </Position>
+    <Heading>240.592041</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1049.19714</X>
+      <Y>-2721.2207</Y>
+      <Z>19.6526985</Z>
+    </Position>
+    <Heading>240.0783</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1040.89368</X>
+      <Y>-2726.19775</Y>
+      <Z>19.6413822</Z>
+    </Position>
+    <Heading>239.034271</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1031.847</X>
+      <Y>-2731.80469</Y>
+      <Z>19.6206017</Z>
+    </Position>
+    <Heading>238.228943</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1020.55737</X>
+      <Y>-2738.08862</Y>
+      <Z>19.6368256</Z>
+    </Position>
+    <Heading>241.979034</Heading>
+    <Area>AIRP</Area>
+    <Street>New Empire Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-744.514954</X>
+      <Y>-2286.37183</Y>
+      <Z>12.6345453</Z>
+    </Position>
+    <Heading>0.501511335</Heading>
+    <Area>AIRP</Area>
+    <Street>Greenwich Pkwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-740.04</X>
+      <Y>-2281.46</Y>
+      <Z>12.6345682</Z>
+    </Position>
+    <Heading>308.113953</Heading>
+    <Area>AIRP</Area>
+    <Street>Greenwich Pkwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-98.6452255</X>
+      <Y>-2075.98022</Y>
+      <Z>16.99237</Z>
+    </Position>
+    <Heading>20.9981556</Heading>
+    <Area>BANNING</Area>
+    <Street>Dutch London St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-228.591476</X>
+      <Y>-1997.43628</Y>
+      <Z>29.2508488</Z>
+    </Position>
+    <Heading>109.363487</Heading>
+    <Area>STAD</Area>
+    <Street>Autopia Pkwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-242.953873</X>
+      <Y>-2012.65125</Y>
+      <Z>29.5220737</Z>
+    </Position>
+    <Heading>165.945038</Heading>
+    <Area>STAD</Area>
+    <Street>Autopia Pkwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-250.615128</X>
+      <Y>-2024.93091</Y>
+      <Z>29.5086212</Z>
+    </Position>
+    <Heading>145.563751</Heading>
+    <Area>STAD</Area>
+    <Street>Autopia Pkwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-263.601624</X>
+      <Y>-2038.4231</Y>
+      <Z>29.51258</Z>
+    </Position>
+    <Heading>121.4344</Heading>
+    <Area>STAD</Area>
+    <Street>Davis Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-242.18042</X>
+      <Y>-2053.56763</Y>
+      <Z>27.3313866</Z>
+    </Position>
+    <Heading>270.2956</Heading>
+    <Area>STAD</Area>
+    <Street>Dutch London St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-247.494568</X>
+      <Y>-2096.70239</Y>
+      <Z>27.1955433</Z>
+    </Position>
+    <Heading>4.797686</Heading>
+    <Area>STAD</Area>
+    <Street>Dutch London St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-139.160233</X>
+      <Y>-1980.54871</Y>
+      <Z>22.3806114</Z>
+    </Position>
+    <Heading>3.71377516</Heading>
+    <Area>DAVIS</Area>
+    <Street>Autopia Pkwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-59.3401337</X>
+      <Y>-1766.131</Y>
+      <Z>28.5872421</Z>
+    </Position>
+    <Heading>332.939575</Heading>
+    <Area>DAVIS</Area>
+    <Street>Grove St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-67.3900452</X>
+      <Y>-1762.1488</Y>
+      <Z>28.8838825</Z>
+    </Position>
+    <Heading>156.450531</Heading>
+    <Area>DAVIS</Area>
+    <Street>Grove St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-75.56028</X>
+      <Y>-1760.011</Y>
+      <Z>29.1415482</Z>
+    </Position>
+    <Heading>333.893982</Heading>
+    <Area>CHAMH</Area>
+    <Street>Grove St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>60.12277</X>
+      <Y>-1568.0752</Y>
+      <Z>29.0360165</Z>
+    </Position>
+    <Heading>230.292236</Heading>
+    <Area>STRAW</Area>
+    <Street>Strawberry Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>130.221146</X>
+      <Y>-1461.07129</Y>
+      <Z>28.9196186</Z>
+    </Position>
+    <Heading>218.480179</Heading>
+    <Area>DAVIS</Area>
+    <Street>Strawberry Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>235.982147</X>
+      <Y>-1385.67371</Y>
+      <Z>31.44327</Z>
+    </Position>
+    <Heading>310.1723</Heading>
+    <Area>STRAW</Area>
+    <Street>Innocence Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>241.752213</X>
+      <Y>-1354.76172</Y>
+      <Z>30.12562</Z>
+    </Position>
+    <Heading>225.706436</Heading>
+    <Area>STRAW</Area>
+    <Street>Strawberry Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>180.31694</X>
+      <Y>-1433.021</Y>
+      <Z>28.8553333</Z>
+    </Position>
+    <Heading>128.749786</Heading>
+    <Area>DAVIS</Area>
+    <Street>Innocence Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>133.57634</X>
+      <Y>-1306.65771</Y>
+      <Z>28.6750584</Z>
+    </Position>
+    <Heading>297.484863</Heading>
+    <Area>STRAW</Area>
+    <Street>Strawberry Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>79.46893</X>
+      <Y>-1235.50488</Y>
+      <Z>28.854557</Z>
+    </Position>
+    <Heading>350.7545</Heading>
+    <Area>STRAW</Area>
+    <Street>Olympic Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>26.0666485</X>
+      <Y>-1226.4292</Y>
+      <Z>28.8999538</Z>
+    </Position>
+    <Heading>108.454086</Heading>
+    <Area>STRAW</Area>
+    <Street>Olympic Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>88.66959</X>
+      <Y>-1195.4845</Y>
+      <Z>28.8689213</Z>
+    </Position>
+    <Heading>275.2762</Heading>
+    <Area>STRAW</Area>
+    <Street>Olympic Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>110.733856</X>
+      <Y>-1207.03333</Y>
+      <Z>28.8708611</Z>
+    </Position>
+    <Heading>241.674622</Heading>
+    <Area>STRAW</Area>
+    <Street>Olympic Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>164.342209</X>
+      <Y>-982.170959</Y>
+      <Z>29.6675739</Z>
+    </Position>
+    <Heading>309.278137</Heading>
+    <Area>LEGSQU</Area>
+    <Street>Vespucci Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>156.789551</X>
+      <Y>-915.730164</Y>
+      <Z>29.7240887</Z>
+    </Position>
+    <Heading>295.6112</Heading>
+    <Area>LEGSQU</Area>
+    <Street>Elgin Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>531.9654</X>
+      <Y>-168.398254</Y>
+      <Z>54.44816</Z>
+    </Position>
+    <Heading>273.727234</Heading>
+    <Area>HAWICK</Area>
+    <Street>Elgin Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>538.1463</X>
+      <Y>92.9333</Y>
+      <Z>95.89208</Z>
+    </Position>
+    <Heading>17.8104439</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>456.9577</X>
+      <Y>124.514778</Y>
+      <Z>98.6869659</Z>
+    </Position>
+    <Heading>35.6980858</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>336.8052</X>
+      <Y>174.980347</Y>
+      <Z>102.753105</Z>
+    </Position>
+    <Heading>30.9941711</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>330.876984</X>
+      <Y>175.788986</Y>
+      <Z>102.886963</Z>
+    </Position>
+    <Heading>109.722076</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>310.353058</X>
+      <Y>176.366318</Y>
+      <Z>103.510406</Z>
+    </Position>
+    <Heading>72.17788</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>313.266418</X>
+      <Y>195.880341</Y>
+      <Z>103.762032</Z>
+    </Position>
+    <Heading>292.069244</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>287.829163</X>
+      <Y>206.805573</Y>
+      <Z>103.947662</Z>
+    </Position>
+    <Heading>197.320618</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>290.083038</X>
+      <Y>188.703339</Y>
+      <Z>103.924889</Z>
+    </Position>
+    <Heading>170.9285</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>81.01902</X>
+      <Y>264.954346</Y>
+      <Z>108.84568</Z>
+    </Position>
+    <Heading>3.53824687</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>76.9104843</X>
+      <Y>291.022247</Y>
+      <Z>109.785217</Z>
+    </Position>
+    <Heading>235.471527</Heading>
+    <Area>DTVINE</Area>
+    <Street>Clinton Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>120.380562</X>
+      <Y>205.839661</Y>
+      <Z>106.848053</Z>
+    </Position>
+    <Heading>212.69693</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>178.469757</X>
+      <Y>186.797058</Y>
+      <Z>105.131821</Z>
+    </Position>
+    <Heading>192.279251</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>236.803711</X>
+      <Y>165.505844</Y>
+      <Z>104.689011</Z>
+    </Position>
+    <Heading>240.5722</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>379.345673</X>
+      <Y>111.278931</Y>
+      <Z>102.327446</Z>
+    </Position>
+    <Heading>257.369629</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>432.3414</X>
+      <Y>83.85613</Y>
+      <Z>99.2165</Z>
+    </Position>
+    <Heading>162.88269</Heading>
+    <Area>DTVINE</Area>
+    <Street>Vinewood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>414.134918</X>
+      <Y>310.00293</Y>
+      <Z>102.583069</Z>
+    </Position>
+    <Heading>15.1511688</Heading>
+    <Area>DTVINE</Area>
+    <Street>Clinton Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-107.104431</X>
+      <Y>274.180878</Y>
+      <Z>98.14102</Z>
+    </Position>
+    <Heading>43.32342</Heading>
+    <Area>WVINE</Area>
+    <Street>Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-233.597046</X>
+      <Y>275.960968</Y>
+      <Z>91.61955</Z>
+    </Position>
+    <Heading>37.0278931</Heading>
+    <Area>WVINE</Area>
+    <Street>Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-358.967377</X>
+      <Y>261.80246</Y>
+      <Z>84.26318</Z>
+    </Position>
+    <Heading>55.79709</Heading>
+    <Area>WVINE</Area>
+    <Street>Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-481.932251</X>
+      <Y>269.184875</Y>
+      <Z>82.7385559</Z>
+    </Position>
+    <Heading>60.7992859</Heading>
+    <Area>WVINE</Area>
+    <Street>Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-546.3304</X>
+      <Y>272.736023</Y>
+      <Z>82.48978</Z>
+    </Position>
+    <Heading>66.51989</Heading>
+    <Area>WVINE</Area>
+    <Street>Milton Rd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-998.8857</X>
+      <Y>315.308044</Y>
+      <Z>68.56376</Z>
+    </Position>
+    <Heading>36.3912277</Heading>
+    <Area>ROCKF</Area>
+    <Street>Greenwich Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-975.052551</X>
+      <Y>338.1039</Y>
+      <Z>71.04886</Z>
+    </Position>
+    <Heading>315.707367</Heading>
+    <Area>ROCKF</Area>
+    <Street>Greenwich Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-948.4252</X>
+      <Y>281.901367</Y>
+      <Z>69.55452</Z>
+    </Position>
+    <Heading>114.320839</Heading>
+    <Area>ROCKF</Area>
+    <Street>West Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1371.37939</X>
+      <Y>54.9232559</Y>
+      <Z>53.2778969</Z>
+    </Position>
+    <Heading>359.960419</Heading>
+    <Area>golf</Area>
+    <Street>West Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1380.25439</X>
+      <Y>55.43909</Y>
+      <Z>53.25322</Z>
+    </Position>
+    <Heading>196.8916</Heading>
+    <Area>golf</Area>
+    <Street>West Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1326.93152</X>
+      <Y>57.7242851</Y>
+      <Z>53.13435</Z>
+    </Position>
+    <Heading>346.098022</Heading>
+    <Area>golf</Area>
+    <Street>West Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1349.4613</X>
+      <Y>132.093491</Y>
+      <Z>55.81916</Z>
+    </Position>
+    <Heading>43.2535324</Heading>
+    <Area>golf</Area>
+    <Street>West Eclipse Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1380.5498</X>
+      <Y>-158.652145</Y>
+      <Z>47.17014</Z>
+    </Position>
+    <Heading>243.207031</Heading>
+    <Area>MORN</Area>
+    <Street>Cougar Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1373.885</X>
+      <Y>-170.923218</Y>
+      <Z>47.0495071</Z>
+    </Position>
+    <Heading>175.627792</Heading>
+    <Area>ROCKF</Area>
+    <Street>Cougar Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1378.854</X>
+      <Y>-185.15921</Y>
+      <Z>46.6970634</Z>
+    </Position>
+    <Heading>129.840622</Heading>
+    <Area>ROCKF</Area>
+    <Street>Morningwood Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1244.95532</X>
+      <Y>-335.180542</Y>
+      <Z>36.71511</Z>
+    </Position>
+    <Heading>297.466248</Heading>
+    <Area>ROCKF</Area>
+    <Street>Boulevard Del Perro</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1058.77319</X>
+      <Y>-219.342667</Y>
+      <Z>37.29144</Z>
+    </Position>
+    <Heading>297.789459</Heading>
+    <Area>ROCKF</Area>
+    <Street>Boulevard Del Perro</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1024.84375</X>
+      <Y>-234.41713</Y>
+      <Z>37.4047279</Z>
+    </Position>
+    <Heading>118.633591</Heading>
+    <Area>ROCKF</Area>
+    <Street>South Boulevard Del Perro</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-836.8222</X>
+      <Y>-334.7016</Y>
+      <Z>38.2548523</Z>
+    </Position>
+    <Heading>165.275879</Heading>
+    <Area>ROCKF</Area>
+    <Street>Dorset Dr</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-707.457642</X>
+      <Y>-370.139954</Y>
+      <Z>33.89261</Z>
+    </Position>
+    <Heading>104.91938</Heading>
+    <Area>ROCKF</Area>
+    <Street>Dorset Dr</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1371.584</X>
+      <Y>-583.7917</Y>
+      <Z>29.3452034</Z>
+    </Position>
+    <Heading>219.629074</Heading>
+    <Area>DELPE</Area>
+    <Street>Marathon Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1358.65894</X>
+      <Y>-606.452454</Y>
+      <Z>28.34697</Z>
+    </Position>
+    <Heading>210.510712</Heading>
+    <Area>DELPE</Area>
+    <Street>Marathon Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1347.27368</X>
+      <Y>-624.256</Y>
+      <Z>27.4594154</Z>
+    </Position>
+    <Heading>214.912949</Heading>
+    <Area>DELPE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1330.41724</X>
+      <Y>-644.100769</Y>
+      <Z>26.387537</Z>
+    </Position>
+    <Heading>223.495514</Heading>
+    <Area>DELPE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1311.02869</X>
+      <Y>-677.9219</Y>
+      <Z>25.741951</Z>
+    </Position>
+    <Heading>200.245224</Heading>
+    <Area>DELPE</Area>
+    <Street>Red Desert Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1294.98315</X>
+      <Y>-700.32</Y>
+      <Z>24.0778522</Z>
+    </Position>
+    <Heading>221.483749</Heading>
+    <Area>DELPE</Area>
+    <Street>Del Perro Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1283.68311</X>
+      <Y>-713.2664</Y>
+      <Z>23.0134983</Z>
+    </Position>
+    <Heading>221.457214</Heading>
+    <Area>DELPE</Area>
+    <Street>Del Perro Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1269.32446</X>
+      <Y>-732.036743</Y>
+      <Z>21.44472</Z>
+    </Position>
+    <Heading>211.416534</Heading>
+    <Area>DELPE</Area>
+    <Street>Del Perro Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1254.37048</X>
+      <Y>-752.517761</Y>
+      <Z>20.1154137</Z>
+    </Position>
+    <Heading>220.843079</Heading>
+    <Area>DELPE</Area>
+    <Street>Del Perro Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1232.0282</X>
+      <Y>-773.577148</Y>
+      <Z>18.13524</Z>
+    </Position>
+    <Heading>237.037537</Heading>
+    <Area>DELPE</Area>
+    <Street>Del Perro Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1209.55359</X>
+      <Y>-789.309753</Y>
+      <Z>16.3826866</Z>
+    </Position>
+    <Heading>230.375687</Heading>
+    <Area>DELPE</Area>
+    <Street>San Andreas Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1189.62317</X>
+      <Y>-820.566345</Y>
+      <Z>14.2076216</Z>
+    </Position>
+    <Heading>193.047333</Heading>
+    <Area>DELPE</Area>
+    <Street>San Andreas Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1177.31934</X>
+      <Y>-882.8207</Y>
+      <Z>13.4882927</Z>
+    </Position>
+    <Heading>209.838409</Heading>
+    <Area>VCANA</Area>
+    <Street>San Andreas Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-1163.45227</X>
+      <Y>-890.945862</Y>
+      <Z>13.517067</Z>
+    </Position>
+    <Heading>301.960724</Heading>
+    <Area>VCANA</Area>
+    <Street>Prosperity St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-837.0326</X>
+      <Y>-614.048462</Y>
+      <Z>28.4048729</Z>
+    </Position>
+    <Heading>222.803848</Heading>
+    <Area>KOREAT</Area>
+    <Street>San Andreas Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-927.7157</X>
+      <Y>-460.270142</Y>
+      <Z>36.64807</Z>
+    </Position>
+    <Heading>321.069763</Heading>
+    <Area>ROCKF</Area>
+    <Street>Movie Star Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-667.3345</X>
+      <Y>-227.9195</Y>
+      <Z>36.5905647</Z>
+    </Position>
+    <Heading>294.063843</Heading>
+    <Area>ROCKF</Area>
+    <Street>Eastbourne Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-644.963562</X>
+      <Y>-233.78331</Y>
+      <Z>37.15963</Z>
+    </Position>
+    <Heading>221.787979</Heading>
+    <Area>ROCKF</Area>
+    <Street>Eastbourne Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-629.522034</X>
+      <Y>-256.890076</Y>
+      <Z>37.955162</Z>
+    </Position>
+    <Heading>212.067566</Heading>
+    <Area>ROCKF</Area>
+    <Street>Portola Dr</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-606.447937</X>
+      <Y>-290.828552</Y>
+      <Z>36.2502441</Z>
+    </Position>
+    <Heading>214.277588</Heading>
+    <Area>ROCKF</Area>
+    <Street>Carcer Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-606.691833</X>
+      <Y>-127.309074</Y>
+      <Z>38.38191</Z>
+    </Position>
+    <Heading>338.5844</Heading>
+    <Area>ROCKF</Area>
+    <Street>Eastbourne Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-574.9469</X>
+      <Y>-112.8588</Y>
+      <Z>39.0268173</Z>
+    </Position>
+    <Heading>315.362976</Heading>
+    <Area>BURTON</Area>
+    <Street>Abe Milton Pkwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>206.4715</X>
+      <Y>-233.122971</Y>
+      <Z>53.3256645</Z>
+    </Position>
+    <Heading>162.728653</Heading>
+    <Area>ALTA</Area>
+    <Street>Hawick Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>241.473083</X>
+      <Y>-379.011322</Y>
+      <Z>43.8428764</Z>
+    </Position>
+    <Heading>221.036087</Heading>
+    <Area>ALTA</Area>
+    <Street>Occupation Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>294.219269</X>
+      <Y>-610.0787</Y>
+      <Z>42.7383766</Z>
+    </Position>
+    <Heading>259.464355</Heading>
+    <Area>TEXTI</Area>
+    <Street>Integrity Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>90.01152</X>
+      <Y>-695.4044</Y>
+      <Z>31.50064</Z>
+    </Position>
+    <Heading>92.5436554</Heading>
+    <Area>PBOX</Area>
+    <Street>Power St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>6.35240269</X>
+      <Y>-711.0001</Y>
+      <Z>45.35181</Z>
+    </Position>
+    <Heading>348.519</Heading>
+    <Area>PBOX</Area>
+    <Street>San Andreas Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>75.48341</X>
+      <Y>-748.4382</Y>
+      <Z>44.4761047</Z>
+    </Position>
+    <Heading>275.5899</Heading>
+    <Area>PBOX</Area>
+    <Street>Power St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>100.33239</X>
+      <Y>-754.578064</Y>
+      <Z>45.1334724</Z>
+    </Position>
+    <Heading>228.69574</Heading>
+    <Area>PBOX</Area>
+    <Street>San Andreas Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>112.615158</X>
+      <Y>-769.0647</Y>
+      <Z>45.1339874</Z>
+    </Position>
+    <Heading>217.154816</Heading>
+    <Area>PBOX</Area>
+    <Street>San Andreas Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>154.440414</X>
+      <Y>-566.8143</Y>
+      <Z>43.27022</Z>
+    </Position>
+    <Heading>297.12204</Heading>
+    <Area>DOWNT</Area>
+    <Street>Integrity Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>221.789978</X>
+      <Y>-856.5363</Y>
+      <Z>29.5737877</Z>
+    </Position>
+    <Heading>203.256638</Heading>
+    <Area>LEGSQU</Area>
+    <Street>San Andreas Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>198.546738</X>
+      <Y>-929.5062</Y>
+      <Z>30.067646</Z>
+    </Position>
+    <Heading>179.971649</Heading>
+    <Area>LEGSQU</Area>
+    <Street>Elgin Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>232.403473</X>
+      <Y>-956.546</Y>
+      <Z>28.692009</Z>
+    </Position>
+    <Heading>281.741119</Heading>
+    <Area>LEGSQU</Area>
+    <Street>Strawberry Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>509.6059</X>
+      <Y>-1088.22888</Y>
+      <Z>28.4323635</Z>
+    </Position>
+    <Heading>208.366058</Heading>
+    <Area>LMESA</Area>
+    <Street>Little Bighorn Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>486.63623</X>
+      <Y>-1193.93164</Y>
+      <Z>28.670475</Z>
+    </Position>
+    <Heading>153.3253</Heading>
+    <Area>STRAW</Area>
+    <Street>Olympic Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>741.7601</X>
+      <Y>-1336.485</Y>
+      <Z>25.6526318</Z>
+    </Position>
+    <Heading>66.08447</Heading>
+    <Area>LMESA</Area>
+    <Street>Olympic Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>818.682556</X>
+      <Y>-1333.49646</Y>
+      <Z>25.48036</Z>
+    </Position>
+    <Heading>182.920868</Heading>
+    <Area>LMESA</Area>
+    <Street>Olympic Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>336.012268</X>
+      <Y>-1478.73083</Y>
+      <Z>28.9233036</Z>
+    </Position>
+    <Heading>118.597816</Heading>
+    <Area>DAVIS</Area>
+    <Street>Davis Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>287.959473</X>
+      <Y>-1600.671</Y>
+      <Z>30.6381226</Z>
+    </Position>
+    <Heading>145.6251</Heading>
+    <Area>DAVIS</Area>
+    <Street>Davis Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>211.765472</X>
+      <Y>-1637.39709</Y>
+      <Z>29.0214024</Z>
+    </Position>
+    <Heading>133.837845</Heading>
+    <Area>DAVIS</Area>
+    <Street>Macdonald St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>594.871765</X>
+      <Y>-2068.59521</Y>
+      <Z>28.67183</Z>
+    </Position>
+    <Heading>169.745972</Heading>
+    <Area>CYPRE</Area>
+    <Street>El Rancho Blvd</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>700.762634</X>
+      <Y>-2641.45435</Y>
+      <Z>5.61173773</Z>
+    </Position>
+    <Heading>36.42718</Heading>
+    <Area>CYPRE</Area>
+    <Street>Elysian Fields Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>620.259338</X>
+      <Y>-2612.97168</Y>
+      <Z>5.552538</Z>
+    </Position>
+    <Heading>85.43029</Heading>
+    <Area>CYPRE</Area>
+    <Street>Abattoir Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>650.780151</X>
+      <Y>-2761.465</Y>
+      <Z>5.515265</Z>
+    </Position>
+    <Heading>152.4319</Heading>
+    <Area>ELYSIAN</Area>
+    <Street>Abattoir Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>793.7652</X>
+      <Y>-2979.56885</Y>
+      <Z>5.39898062</Z>
+    </Position>
+    <Heading>309.63092</Heading>
+    <Area>TERMINA</Area>
+    <Street>Buccaneer Way</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1094.27063</X>
+      <Y>-1143.91724</Y>
+      <Z>27.3486633</Z>
+    </Position>
+    <Heading>309.61792</Heading>
+    <Area>MURRI</Area>
+    <Street>Elysian Fields Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2142.715</X>
+      <Y>2903.94385</Y>
+      <Z>46.9932022</Z>
+    </Position>
+    <Heading>110.429451</Heading>
+    <Area>DESRT</Area>
+    <Street>Route 68</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>2085.93872</X>
+      <Y>2940.16113</Y>
+      <Z>46.7341881</Z>
+    </Position>
+    <Heading>40.3925133</Heading>
+    <Area>DESRT</Area>
+    <Street>Route 68</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1704.50012</X>
+      <Y>6409.8667</Y>
+      <Z>32.5786438</Z>
+    </Position>
+    <Heading>63.893692</Heading>
+    <Area>MTCHIL</Area>
+    <Street>Senora Fwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1585.70288</X>
+      <Y>6446.77</Y>
+      <Z>24.6608219</Z>
+    </Position>
+    <Heading>0.368953764</Heading>
+    <Area>MTCHIL</Area>
+    <Street>Great Ocean Hwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>1482.02026</X>
+      <Y>6397.821</Y>
+      <Z>22.2254562</Z>
+    </Position>
+    <Heading>167.195557</Heading>
+    <Area>MTCHIL</Area>
+    <Street>Great Ocean Hwy</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-769.279358</X>
+      <Y>5592.541</Y>
+      <Z>32.9979744</Z>
+    </Position>
+    <Heading>339.82962</Heading>
+    <Area>PALFOR</Area>
+    <Street>Procopio Promenade</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>-762.5571</X>
+      <Y>5583.928</Y>
+      <Z>35.5591354</Z>
+    </Position>
+    <Heading>272.663269</Heading>
+    <Area>PALFOR</Area>
+    <Street>Procopio Promenade</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>586.697266</X>
+      <Y>-1588.79407</Y>
+      <Z>26.7707462</Z>
+    </Position>
+    <Heading>45.02174</Heading>
+    <Area>RANCHO</Area>
+    <Street>Little Bighorn Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>573.9054</X>
+      <Y>-1589.186</Y>
+      <Z>27.64578</Z>
+    </Position>
+    <Heading>62.80164</Heading>
+    <Area>RANCHO</Area>
+    <Street>Little Bighorn Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>566.5996</X>
+      <Y>-1636.53259</Y>
+      <Z>26.5798855</Z>
+    </Position>
+    <Heading>308.096</Heading>
+    <Area>RANCHO</Area>
+    <Street>Jamestown St</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+  <ExtendedSpawnPoint>
+    <Position>
+      <X>583.199768</X>
+      <Y>-1616.35876</Y>
+      <Z>26.312027</Z>
+    </Position>
+    <Heading>329.875122</Heading>
+    <Area>RANCHO</Area>
+    <Street>Little Bighorn Ave</Street>
+    <Tags />
+  </ExtendedSpawnPoint>
+</ArrayOfExtendedSpawnPoint>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+  <Name>pursuitstatus_continue</Name>
+  <Commands>
+    <string>pursuitstatus</string>
+  </Commands>
+  <Phrases>
+	<string>Safe to continue</string>
+	<string>Ok to continue</string>
+	<string>Okay to continue</string>
+  </Phrases>
+  <Target>OP_Immersive_Dispatch.Handlers.PursuitStatusCheck.Yes</Target>
+</Action>

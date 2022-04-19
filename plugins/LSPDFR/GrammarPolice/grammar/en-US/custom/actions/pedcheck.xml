@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+  <Name>pedcheck</Name>
+  <Commands>
+    <string>request</string>
+  </Commands>
+  <Phrases>
+    <string>ten twenty seven</string>
+    <string>ped check</string>
+    <string>i d check</string>
+    <string>person check</string>
+  </Phrases>
+  <Target>OP_Immersive_Dispatch.Actions.Requests.PedCheck</Target>
+</Action>

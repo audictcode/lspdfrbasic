@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>signal60</Name>
+    <Commands>
+        <string>advised</string>
+    </Commands>
+    <Phrases>
+        <string>signal sixty</string>
+        <string>drug case</string>
+    </Phrases>
+    <Target>OP_Immersive_Dispatch.Actions.Advise.Signal_60</Target>
+</Action>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+  <Name>backuptow</Name>
+  <Commands>
+    <string>request</string>
+  </Commands>
+  <Phrases>
+    <string>ten fifty one</string>
+    <string>tow backup</string>
+    <string>tow</string>
+    <string>tow truck</string>
+  </Phrases>
+  <Target>OP_Immersive_Dispatch.Actions.Backup.Tow</Target>
+</Action>

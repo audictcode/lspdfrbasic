@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Command>
+  <Name>cancelChecks</Name>
+  <Action>cancelChecks</Action>
+  <Phrases>
+    <string>cancel checks</string>
+  </Phrases>
+</Command>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TerminalFrame Name="light" Filename="light.png" FontSize="16" FontColor="#000000">
+  <TextBox Name="Address" X="36" Y="75" />
+  <TextBox Name="Agency" X="506" Y="75" />
+  <TextBox Name="Area" X="36" Y="125" />
+  <TextBox Name="County" X="346" Y="125" />
+  <TextBox Name="Priority" X="506" Y="125" />
+  <TextBox Name="Message_0" X="36" Y="175" />
+  <TextBox Name="Message_1" X="36" Y="195" />
+  <TextBox Name="Message_2" X="36" Y="215" />
+  <TextBox Name="Message_3" X="36" Y="235" />
+  <TextBox Name="Message_4" X="36" Y="255" />
+  <TextBox Name="Message_5" X="36" Y="275" />
+</TerminalFrame>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>off_duty</Name>   
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+		<string>ten forty two</string>
+		<string>forty two</string>
+		<string>off duty</string>
+    </Phrases>	
+    <Target>OP_Immersive_Dispatch.Actions.Status.Off_Duty</Target>
+</Action>

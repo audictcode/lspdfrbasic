@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ok</Name>
+      <Commands>
+        <string>status</string>
+    </Commands>
+	<Phrases>
+		<string>okay</string>
+    <string>o k</string>
+    <string>fine</string>
+    <string>good</string>
+    </Phrases>
+    <Target>OP_Immersive_Dispatch.Handlers.OfficerCheckIn.OK</Target>
+</Action>

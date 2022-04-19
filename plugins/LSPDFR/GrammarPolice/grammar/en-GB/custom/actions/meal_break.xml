@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>meal_break</Name>   
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+		<string>ten five</string>
+		<string>five</string>
+		<string>meal break</string>
+    </Phrases>	
+    <Target>OP_Immersive_Dispatch.Actions.Status.Meal_Break</Target>
+</Action>

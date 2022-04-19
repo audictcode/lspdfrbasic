@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+  <Name>AirDismiss</Name>
+  <Commands>
+    <string>Dismiss</string>
+  </Commands>
+  <Phrases>
+		<string>Stand Down</string>
+		<string>Return To Base</string>
+		<string>You Are Clear</string>
+  </Phrases>
+  <Target>OP_Immersive_Dispatch.Actions.Backup.AirDismiss</Target>
+</Action>

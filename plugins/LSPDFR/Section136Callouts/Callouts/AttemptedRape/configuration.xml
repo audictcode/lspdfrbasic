@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  
+   <!-- 
+   
+    Section136Callouts XML Data File
+     Copyright © Max Playle 2021-2025 • All rights reserved
+     This software is closed-source. Whilst you can edit this file
+     to your liking, and you may share screenshots of it, please **do not**
+     transmit this file over the internet, other than for personal uses, without
+     the express permission of Max Playle. This software is protected under UK, US
+     and international copyright laws. All rights reserved.
+     
+     This file contains basic customisation for the vehicles that can spawn in
+     Ambient Events. This file was last updated for build prerelease-0.1.0.0-eac-0.0.9908-b01 (0.0.9.9801).
+     If you notice any issues on later builds please let me know as soon as possible.
+     
+     Need help this file? Please DO NOT leave a comment on LCPDFR.com as I do not check it often.
+     Instead, join my Discord Server: https://dsc.gg/maxshangout
+     
+     These values are evaluated at startup, so you must reload LSPDFR before any changes you make will be put into effect.
+    
+   -->
+
+  <!-- 
+    These are settings that affect when the callout is offered to yourself.
+  -->
+  <creationConditions>
+
+    <allowDaytime>true</allowDaytime> <!-- If true, you may be offered callout during the day. -->
+    <allowNighttime>true</allowNighttime> <!-- If true, you may be offered this callout during the night.-->
+     
+  </creationConditions>
+
+  <!--
+    You can set the different ped models that appear in this callout here.
+  
+    There's a single "type" attribute, which designates whether the ped model can appear as a victim, or as a suspect.
+  
+      victim    ->  The model can occur as a victim.
+      suspect   ->  The model can appear as a suspect.
+    
+    If the type says anything other than "victim" or "suspect", the model will not be registered and will not show up in the game.
+  
+    If you do not designate the "type" attribute, the model will not be registered and will not show up in the game.
+  -->
+  <characters>
+    
+    <character type="victim">s_f_y_hooker_01</character>
+    <character type="victim">s_f_y_hooker_02</character>
+    <character type="victim">s_f_y_hooker_03</character>
+
+    <character type="suspect">ig_old_man1a</character>
+    <character type="suspect">cs_old_man1a</character>
+    <character type="suspect">ig_oneil</character>
+    <character type="suspect">ig_old_man2</character>
+    <character type="suspect">u_m_y_party_01</character>
+    <character type="suspect">a_m_y_polynesian_01</character>
+    <character type="suspect">ig_priest</character>
+    <character type="suspect">u_m_y_proldriver_01</character>
+    <character type="suspect">csb_prologuedriver</character>
+    
+  </characters>
+
+  <vehicles>
+    <vehicle>STANIER</vehicle>
+    <vehicle>BLISTA</vehicle>
+    <vehicle>DILETTANTE</vehicle>
+    <vehicle>ISSI2</vehicle>
+    <vehicle>PANTO</vehicle>
+    <vehicle>RHAPSODY</vehicle>
+    <vehicle>SENTINEL</vehicle>
+    <vehicle>ZION</vehicle>
+    <vehicle>BMX</vehicle>
+    <vehicle>PCJ</vehicle>
+    <vehicle>SANCHEZ</vehicle>
+    <vehicle>BLADE</vehicle>
+    <vehicle>BUCCANEER</vehicle>
+    <vehicle>FACTION</vehicle>
+    <vehicle>POHENIX</vehicle>
+    <vehicle>TAMPA</vehicle>
+    <vehicle>VIRGO</vehicle>
+    <vehicle>BALLER</vehicle>
+  </vehicles>
+
+  <ambulance>
+
+    <responseTimeout>90000</responseTimeout>
+    
+  </ambulance>
+
+  <compatibleVersion>1.0.1.0</compatibleVersion>
+  
+  
+</config>

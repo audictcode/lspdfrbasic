@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>suspectsincustody</Name>
+	<Commands>
+        <string>advised</string>
+    </Commands>
+	<Phrases>
+		<string>ten fifteen</string>
+		<string>suspect in custody</string>
+		<string>suspect is detained</string>
+		<string>suspects in custody</string>
+		<string>suspects are detained</string>
+		<string>in custody</string>
+	</Phrases>
+    <Target>OP_Immersive_Dispatch.Actions.Status.Suspect_In_Custody</Target>
+</Action>

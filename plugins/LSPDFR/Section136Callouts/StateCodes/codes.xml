@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section136callouts>
+
+  <!-- 
+     Section136Callouts XML Data File
+     Copyright © Max Playle 2021-2025 • All rights reserved
+     This software is closed-source. Whilst you can edit this file
+     to your liking, and you may share screenshots of it, please **do not**
+     transmit this file over the internet, other than for personal uses, without
+     the express permission of Max Playle. This software is protected under UK, US
+     and international copyright laws. All rights reserved.
+     
+     This file contains the full amount of customisation required to adapt the Status Codes within
+     Section136Callouts to your standard of gameplay.
+     
+     This file was last modified for build 0.1.0.1-rc1-0.1.0.0 build 1. Let me know if you find anything
+     that doesn't work in future builds.
+   
+     WARNING:
+     This feature is disabled by default, and is unfinished. You should not use it. 
+   
+     Need help this file? Please DO NOT leave a comment on LCPDFR.com as I do not check it often.
+     Instead, join my Discord Server: https://dsc.gg/maxshangout
+-->
+
+  <statuscodes>
+
+    <configuration>
+      <enableFeature>false</enableFeature>
+    </configuration>
+    
+    <entries>
+      <!-- 
+        The default codes are as seen in the National UK Police Airwave standard.
+        It represents most forces in the UK, although if you're not in the UK - these
+        probably won't be realistic in the area you're simulating. If such is the case,
+        you can reconfigure this file until it matches the style of gameplay you'd like.
+        
+        Be aware that not *all* of the UK police codes are here, I've removed some such as 
+        Confidentiam Message (12), Urgent and Non-Urgent callbacks (13 and 14), and Repeat (16)
+        just because I can't find a use for them here - but if you want to add them, fill your
+        boots :)
+      -->
+      <status code="0" name="Emergency Assistance" cat="general" noall="false" action="player-ten-nine"/>
+      
+      <status code="1" name="On Duty" cat="commitment" noall="false" action="player-available"/>
+      
+      <status code="2" name="On Patrol" cat="commitment" noall="false" action="player-available"/>
+      
+      <status code="3" name="At Station" cat="commitment" noall="false" action="none"/>
+      
+      <status code="4" name="Refreshments" cat="commitment" noall="false" action="none"/>
+      
+      <status code="5" name="En Route" cat="commitment" noall="false" action="none"/>
+      
+      <status code="6" name="At Scene" cat="commitment" noall="false" action="none"/>
+      
+      <status code="7" name="Urgent Deployments Only" cat="commitment" noall="false" action="none"/>
+      
+      <status code="8" name="Unavailable" cat="commitment" noall="false" action="player-unavailable" />
+
+      <status code="9" name="Prisoner Escort" cat="commitment" noall="false" action="player-unavailable" />
+
+      <status code="11" name="Off Duty" cat="commitment" noall="false" action="player-unavailable" />
+
+      <status code="15" name="Received" cat="commitment" noall="false" action="none" />
+      
+    </entries>
+    
+  </statuscodes>
+  
+</section136callouts>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied3_32</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+      <string>occupied three times requesting thirty two</string>
+      <string>occupied three times requesting ten thirty two</string>
+      <string>occupied three times requesting additional</string>
+      <string>occupied three times requesting backup</string>
+    </Phrases>	
+    <Target>OP_Immersive_Dispatch.Actions.TrafficStop.Occupied1_3_32</Target>
+</Action>

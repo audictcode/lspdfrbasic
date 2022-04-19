@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ChannelPriority</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>Changing Channel To Priority</string>
+		<string>Changing Back To Priority Channel</string>
+		<string>Changing Back To Priority</string>
+		<string>Switching To Priority Channel</string>
+		<string>Switching Back To Priority Channel</string>
+		<string>Switching Back To Priority</string>
+    </Phrases>
+    <Target>OP_Immersive_Dispatch.Actions.Ambient.Channel_PRIORITY</Target>
+</Action>

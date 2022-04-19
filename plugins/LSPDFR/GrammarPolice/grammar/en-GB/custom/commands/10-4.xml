@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>10-4</Name>
+    <Action>10-4</Action>
+    <Phrases>
+        <string>10 4</string>
+        <string>ten four</string>
+		<string>copy that</string>
+		<string>all received</string>
+		<string>thank you</string>
+    </Phrases>
+</Command>

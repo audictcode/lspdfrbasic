@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+  <Name>insurancecompany</Name>
+  <Commands>
+    <string>request</string>
+  </Commands>
+  <Phrases>
+    <string>insurance</string>
+    <string>insurance company</string>
+    <string>vehicle insurance company</string>
+    <string>vehicle insurance</string>
+  </Phrases>
+  <Target>OP_Immersive_Dispatch.Actions.Requests.InsuranceCompany</Target>
+</Action>

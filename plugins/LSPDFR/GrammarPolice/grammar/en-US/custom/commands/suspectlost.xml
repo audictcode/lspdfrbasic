@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>suspectlost</Name>  
+    <Action>suspect_lost</Action>  
+    <Phrases>
+		  <string>suspect lost</string>
+		  <string>terminate pursuit</string>
+		  <string>suspect evaded arrest</string>
+    </Phrases>
+</Command>

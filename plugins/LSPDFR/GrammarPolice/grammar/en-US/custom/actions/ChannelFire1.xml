@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>ChannelFire1</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>Changing Channel To Fire 1</string>
+		<string>Changing Back To Fire 1 Channel</string>
+		<string>Changing Back To Fire 1</string>
+		<string>Switching To Fire 1</string>
+		<string>Switching Back To Fire 1 Channel</string>
+		<string>Switching Back To Fire 1</string>
+    </Phrases>
+    <Target>OP_Immersive_Dispatch.Actions.Ambient.Channel_FIRE1</Target>
+</Action>

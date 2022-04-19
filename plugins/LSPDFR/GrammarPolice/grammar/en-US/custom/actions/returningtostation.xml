@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>returningtostation</Name>   
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+		<string>ten nineteen</string>
+		<string>nineteen</string>
+		<string>returning to station</string>
+    </Phrases>	
+    <Target>OP_Immersive_Dispatch.Actions.Status.Returning_To_Station</Target>
+</Action>

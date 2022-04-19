@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied4</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+		<string>occupied four times</string>
+    </Phrases>	
+    <Target>OP_Immersive_Dispatch.Actions.TrafficStop.Occupied4</Target>
+</Action>

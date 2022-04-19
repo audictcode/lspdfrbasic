@@ -1,0 +1,140 @@
+=====================
+Grammar Configuration
+=====================
+
+There is video tutorial here: https://youtu.be/H1_wwvzK9hc
+
+GrammarPolice (GP) uses Microsoft's Speech Recognition Engine (SRE).  However,
+rather than listen for keywords, GP predefines a list of known phrases which the
+SRE uses to determine if it understands you.  In testing, this results in pretty
+accurate recognition.  However, no voice recognition system is perfect and your
+mileage may vary.
+
+The phrases in GP follow the following format:
+
+[PREFACE]  [COMMAND]  [MODIFIER]
+
+If GP understands what you say, it converts it into an ACTION.
+
+
+!!! IMPORTANT !!!
+-----------------
+For all of the examples provided below, the default callsign 1-LINCOLN-18 is used. 
+However, you can modify your callsign in GrammarPolice.ini.  GP will only recognize
+the callsign in the config file and will be confused if you use a callsign other
+than the one you define.
+
+!!! IMPORTANT !!!
+-----------------
+All customization changes should go into the "custom" grammar folder.  Do not
+modify the contents of the "default" folder.
+
+
+PREFACE
+=======
+The preface is the lead-in to your phrase.  GP automatically adds an empty
+string, which effectively makes the preface optional, as well as your callsign,
+both with and without the division.  Examples include:
+
+    "Dispatch..."
+    "Copy that dispatch..."
+    "1-LINCOLN-18..."
+    "Dispatch LINCOLN 18..."
+
+You can modify the preface to add whatever phrase you want.  If you want to address
+the dispatcher like this:
+
+    "Dispatch this is big tuna..."
+
+You simply need to add that phrase to the custom/commands/preface.xml file.
+
+
+COMMAND
+=======
+There are five commands that GP understands by default:
+
+  - Accept
+  - Advise
+  - Panic
+  - Request
+  - Status
+
+Each ACTION can belong to one or more COMMAND.  For example, the AVAILABLE
+action belongs to the STATUS command.  That combines the phrases in each
+to generate hit on things like:
+
+    "...show me... available."
+    "...I am going... ten eight."
+
+Some commands only have one action assigned to them.  In these cases, there
+is not modifier.  The preface-command combination is sufficient to trigger.
+
+
+Accept
+------
+The phrases listed in the accept.xml command file are used to accept a callout.
+They do not require any further modifiers.  Any speech detected beyond the
+accept command will effectively be ignored.   Therefore, the following example
+phrases will trigger the ACCEPT function, which will try to accept a callout.
+
+    "...en route."
+    "...I'll check it out."
+    "...responding code 2 to Vespucci beach."
+
+
+Advise
+------
+The phrases listed in the advise.xml command file are used to talk to generate
+a generic response.  This is a roleplay command.
+
+
+Panic
+-----
+These phrases are used to trigger an immediate and overwhelming response.
+Like the Accept command, these phrases do not require a modifier.  Examples:
+
+    "Shots fired!"
+    "LINCOLN 18 Code 99."
+    "Dispatch 11-99."
+
+
+Request
+-------
+The Request command requires a modifier.  The phrases by themselves will not
+trigger an action.  Some example phrases are:
+
+    "...can I get a..."
+    "...I need a..."
+    "...send me..."
+    "...requesting..."
+
+If any of the Request phrases are recongized, GP will then try to match
+the rest of your sentence with one of the actions that have subscribed to
+this request command.  Examples:
+
+    "...air support."
+    "...code two backup.""
+    "...additional units."
+    "...paramedic."
+    "...transport."
+    "...ped check."
+    "...plate check.""
+
+
+Status
+------
+The Status commands are used with options to request various statuses.
+There are combinations that will trigger the ACCEPT action, as well as
+actions that automatically toggle your availability for callouts. 
+Some example command strings:
+
+    "...I am going"..."
+    "...show me..."
+    "...we are..."
+
+If a Status command phrase is recognized, GP will try to match one
+of the available options.  Examples:
+
+    "...ten eight."
+    "...out of service."
+    "...on a traffic stop."

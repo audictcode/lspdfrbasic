@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>pursuitstatus</Name>
+    <Phrases>
+	  <string>it is</string>
+	  <string>I think it is</string>
+	  <string>we think it is</string>
+    </Phrases>
+</Command>

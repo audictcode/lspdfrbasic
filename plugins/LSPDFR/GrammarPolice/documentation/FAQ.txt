@@ -1,0 +1,48 @@
+==========================
+Frequently Asked Questions
+==========================
+
+Q. How do I install and configure Grammar Police?
+A. Watch this video: https://www.youtube.com/watch?v=dogzftjB3ZE
+
+Q. How do I customize my phrases?
+A. Watch this video: https://www.youtube.com/watch?v=H1_wwvzK9hc
+
+Q. I got the "could not initialize speech engine" error, what do I do?
+A. Read LANGUAGE.txt in the Documentation folder.
+
+Q. Do I need to use Immersive Dispatch?
+A. No.
+
+Q. Where can I see a list of values for mapping keys?
+A. https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.keys?view=netcore-3.1
+
+Q. Where can I see a list of values for mapping controller buttons?
+A. Use the "Member name" column here: https://docs.ragepluginhook.net/html/T_Rage_ControllerButtons.htm
+
+Q. I got the "internal error occurred in the recognition process", what do I do?
+A. Read LANGUAGE.txt in the Documentation folder.
+
+Q. Why doesn't Grammar Police understand me?
+A. Read LANGUAGE.txt in the Documentation folder.
+
+Q. What settings did you use for the Player Location Display?
+A. PLD.ini:
+
+[ GENERAL ]
+LocTextPosX = 320
+LocTextPosY = 980
+LocTextPosX_RadarLrg = 500
+LocTextPosY_RadarLrg = 1000
+LocTextSizeMult = 1.25
+DisplayGameTime = true
+AllowRadarSizeToggle = true
+AllowControllerUse = false
+
+Q. Why is my microphone volume lowered when I use Grammar Police?
+A. Microsoft sucks.  Follow this: https://www.youtube.com/watch?v=kUhOyIa41Rw
+
+Q. Why is Grammar Police is crashing my game?!
+A. Make sure LSPDFR is up to date and add this to your LSPDFR.ini:
+
+Main.DisableGameBlipHiding = true

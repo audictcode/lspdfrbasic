@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Action>
+  <Name>pursuitstatus_terminate</Name>
+  <Commands>
+    <string>pursuitstatus</string>
+  </Commands>
+  <Phrases>
+	<string>Not Safe to continue</string>
+	<string>To dangerous to continue</string>
+  </Phrases>
+  <Target>OP_Immersive_Dispatch.Handlers.PursuitStatusCheck.Cancel</Target>
+</Action>
