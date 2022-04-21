@@ -2,7 +2,6 @@
 LSPDFR LOS SANTOS EDITION
 
 v.1.4.19042022.1630a | Traffic Pack
->>>>>>> e5726cc9b27ce829fb5b85db7b9f1815df5e64ec
 
 Added:
   - AI Traffic Fluidity & Discipline v7
