@@ -1,15 +1,6 @@
 # lspdfrbasic
 LSPDFR LOS SANTOS EDITION
 
-v.1.4.19042022.1630a | Traffic Pack
-
-Added:
-  - AI Traffic Fluidity & Discipline v7
-  - FelonyStop v2.0.0
-  - StopAimingAtCops 2.1.0
-  - Traffic Control - v1.1.1
-  - TrafficBlock_v1.4
-
 v.1.3.16042022.1930a | Immersive Pack
 
 Added:
