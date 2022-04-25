@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Command>
-    <Name>standby</Name>
-    <Action>standby</Action>
-    <Phrases>
-        <string>stand by</string>
-        <string>standby</string>
-    </Phrases>
-</Command>
